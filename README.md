@@ -1,2 +1,2 @@
-# scan-nmap-auto
-This is my project to automate the scan nmap
+# nmap-scan-automated
+This is my project to automated the scan nmap.
